@@ -1,4 +1,4 @@
-INFILE  = '20220630_yf000da_ausgangsmessung.s1p'
+INFILE  = 'example.s1p'
 OUTFILE = 'bp_LTE.s1p'
 
 freqs = [(880e6, 960e6), (1710e6, 1880e6)]
